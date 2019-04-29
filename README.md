@@ -4,13 +4,8 @@
  The image above is me and my advisor testing the sensor on the road.
 ## Design
 <img src="https://github.com/Schildsladder/Fiber-Optic-Weigh-Sensor/blob/master/pictures/Diagram%20total%202..jpg" width="80%">
-1. Install required modules with `pip install -r requirements.txt`.
-2. Run the program with `python mandelbrot_generator.py`
-3. Wait for the program to compute
-4. Check the notebook file
+<img src="https://github.com/Schildsladder/Fiber-Optic-Weigh-Sensor/blob/master/pictures/Sampel%20data%20r3%20savgol%2051.png" width="80%">
+<img src="https://github.com/Schildsladder/Fiber-Optic-Weigh-Sensor/blob/master/pictures/bac.png" width="80%">
+<img src="https://github.com/Schildsladder/Fiber-Optic-Weigh-Sensor/blob/master/pictures/diagram.jpg" width="80%">
 
 ## Commandline options
-
-
-## Mandelbrot Set feature rendered by this program
-<img src="https://github.com/Schildsladder/mandelbrot/blob/master/pictures/buzz.png" width="100%">
