@@ -1,5 +1,5 @@
 # Fiber Optic Weigh In Motion Sensor
-  This project is done to develop optical fiber sensor to measure weigh of moving vehicle. The sensor consist of optical fiber embedded inside rubber structure. The light properties inside the fiber will change indicating the characteristic of the vehichle that pass through the sensor.
+  This project is done to develop optical fiber sensor to measure weigh of moving vehicle. The sensor consist of optical fiber embedded inside rubber structure. The light properties inside the fiber will change indicating the characteristic of the vehichle that pass through the sensor. 
 
  <img src="https://github.com/Schildsladder/Fiber-Optic-Weigh-Sensor/blob/master/pictures/a.jpg" width="80%">
  
@@ -23,4 +23,4 @@ Data aqusition program display raw data from sensor.
 
 <img src="https://github.com/Schildsladder/Fiber-Optic-Weigh-Sensor/blob/master/pictures/screen%20b.png" width="80%">
 
-
+Detailed descrition are written inside pdf file.
