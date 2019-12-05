@@ -19,5 +19,8 @@ The picture bellow illustrate sensor's internal layout, optical fiber, light sou
 
 <img src="https://github.com/Schildsladder/Fiber-Optic-Weigh-Sensor/blob/master/pictures/diagram.jpg" width="80%">
 
+Data aqusition program display raw data from sensor. 
+
+<img src="https://github.com/Schildsladder/Fiber-Optic-Weigh-Sensor/blob/master/pictures/screen%20b.png" width="80%">
 
 
